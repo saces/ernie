@@ -1,0 +1,6 @@
+This is an incubation repository for fred (Freenet REference Deamon).
+
+Don't use this as seperate lib, updating will lead you into errors.
+Include the corresponding snapshot via git submodule or include downloaded
+sources into your tree.
+
