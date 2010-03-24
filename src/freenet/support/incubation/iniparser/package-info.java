@@ -5,6 +5,6 @@ package freenet.support.incubation.iniparser;
 
 /**
  * IniParser for ini file style configuration files.
- * A mix of inifile format (sections) and SimpleFieldSet(s)
+ * A mix of inifile format (sections) and SimpleFieldSet
  * 
  */
