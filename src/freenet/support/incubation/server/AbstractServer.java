@@ -30,7 +30,7 @@ public abstract class AbstractServer implements Runnable {
 	private int mPort;
 	private NetworkInterface networkInterface;
 	private boolean ssl;
-	private final Executor eXecutor;
+	protected final Executor eXecutor;
 	private final String serverName;
 
 	public class SocketHandler implements Runnable {
